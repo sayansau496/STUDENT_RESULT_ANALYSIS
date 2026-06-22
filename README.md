@@ -23,7 +23,7 @@ The project covers **503 students** across Sections **A, B, and C**. It includes
 
 ## 📊 Dashboard Preview
 
-<img width="100%" height="356" alt="image" src="https://github.com/user-attachments/assets/ff255c39-e333-4dfa-b084-80b0e93fbe3a" />
+<img width="100%" height="480" alt="image" src="https://github.com/user-attachments/assets/ff255c39-e333-4dfa-b084-80b0e93fbe3a" />
 
 
 ---
