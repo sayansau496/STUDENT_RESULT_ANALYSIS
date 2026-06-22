@@ -1,6 +1,6 @@
 # 🎓 Student Result Analysis and Report Card Generator
 
-<img width="493" height="356" alt="image" src="https://github.com/user-attachments/assets/909968d7-da3e-4319-b288-5dea501c3267" />
+
 
 
 An interactive **Advanced Excel-based Student Result Analysis and Report Card Generator** designed to analyze academic performance, attendance, subject-wise marks, grades, ranks, and section-wise results.
@@ -23,7 +23,7 @@ The project covers **503 students** across Sections **A, B, and C**. It includes
 
 ## 📊 Dashboard Preview
 
-<img width="493" height="356" alt="image" src="https://github.com/user-attachments/assets/ff255c39-e333-4dfa-b084-80b0e93fbe3a" />
+<img width="100%" height="356" alt="image" src="https://github.com/user-attachments/assets/ff255c39-e333-4dfa-b084-80b0e93fbe3a" />
 
 
 ---
