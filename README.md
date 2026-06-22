@@ -1,8 +1,7 @@
 # 🎓 Student Result Analysis and Report Card Generator
 
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-Advanced%20Excel-217346?logo=microsoft-excel\&logoColor=white)
-![Project Status](https://img.shields.io/badge/Project%20Status-Completed-success)
-![Students](https://img.shields.io/badge/Students%20Analyzed-503-blue)
+<img width="493" height="356" alt="image" src="https://github.com/user-attachments/assets/909968d7-da3e-4319-b288-5dea501c3267" />
+
 
 An interactive **Advanced Excel-based Student Result Analysis and Report Card Generator** designed to analyze academic performance, attendance, subject-wise marks, grades, ranks, and section-wise results.
 
@@ -24,11 +23,8 @@ The project covers **503 students** across Sections **A, B, and C**. It includes
 
 ## 📊 Dashboard Preview
 
-> Add your dashboard screenshot inside an `images` folder and update the file name below.
+<img width="493" height="356" alt="image" src="https://github.com/user-attachments/assets/ff255c39-e333-4dfa-b084-80b0e93fbe3a" />
 
-```md
-![Dashboard Preview](images/dashboard-preview.png)
-```
 
 ---
 
